@@ -36,10 +36,10 @@ rgb(0, 0, 0);
     background-color: #CCCCCC;
 
   }
+.iconhovor:hover
+{
+  background-color: #CCCCCC;
+
+}
   
   
-  
-  @media screen and (max-height: 450px) {
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
-  }
