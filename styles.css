@@ -278,7 +278,116 @@ margin-bottom: 70px;
   border-top: 1px solid #eee;
 }
 
-.footer
+
+.fourcardfooter
 {
+    
+   margin-top:47px;
+   margin-left:100px;
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
   
+}
+
+.fourcardcolfooter
+{
+      padding-left: 8px;
+      padding-right: 8px;
+      margin-bottom: 16px !important;
+    float: left;
+    width: 30%;
+
+}
+@media (max-width: 993px) {
+    .fourcard-col {
+        width: 22%;
+  
+    }
+    .fourcard
+{
+  margin-left:50px;
+}
+
+}
+@media (max-width: 793px) {
+  .fourcard-col {
+      width: 22%;
+
+  }
+  .fourcard
+{
+margin-left:30px;
+}
+
+}
+@media (max-width: 693px) {
+  .fourcard-col {
+      width: 22%;
+
+  }
+  .fourcard
+{
+margin-left:20px;
+}
+
+}
+
+@media (max-width: 601px) {
+    .fourcard-col {
+        width: 90%;
+        margin-left: 30px;
+    }
+    .fourcard
+    {
+    margin-left:-10px;
+    }
+}
+
+
+.fourcardcolfooter h3{
+
+    font-family: "Karma, sans-serif";
+    font-weight: 400;
+ font-style: normal;
+ color: 
+ rgb(0, 0, 0);
+    font-size: 24px;
+    line-height: 36px;
+
+    
+}
+.fourcard-col-p1{
+    font-family: Karma, sans-serif;
+    font-size: 15px;
+    line-height: 23px;
+    font-weight: 400;
+    font-style: normal;
+    color: 
+    rgb(0, 0, 0);
+    text-align: center;
+   opacity: 0.60;
+}
+
+
+.Travel
+{
+  color: #fff !important;
+  background-color: #000 !important;
+  margin-bottom: 16px !important;
+  display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center;
+}
+.footerboxs
+{
+  color: #fff !important;
+  background-color: #616161 !important;
+  margin-bottom: 16px !important;
+  font-size: 12px !important;
+  display: inline-block;
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: center; 
 }
