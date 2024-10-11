@@ -391,3 +391,27 @@ margin-left:20px;
   padding-right: 8px;
   text-align: center; 
 }
+
+
+
+.hoverable li:hover {
+  background-color: #f5f5f5;
+}
+
+.paddingalign {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.paddingleft {
+  float: left;
+  margin-right: 16px;
+}
+
+
+
+.large {
+  font-size: 18px;
+}
+
+/* Clear float after list items */
